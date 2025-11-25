@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plrmpapers on </title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in plrmpapers on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstract</title>
+      <link>//localhost:1313/abstract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/abstract/</guid>
+        <media:content url="//localhost:1313/abstract/windows11_1_hu_c1d1e67652a09c0d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/abstract/windows11_1_hu_c1d1e67652a09c0d.jpg&quot; /&gt;
+          &lt;p&gt;For those who want something familiar.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Anime</title>
+      <link>//localhost:1313/anime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/anime/</guid>
+        <media:content url="//localhost:1313/anime/popart_tohru_hu_695b6b05b3a7f7ce.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/anime/popart_tohru_hu_695b6b05b3a7f7ce.jpg&quot; /&gt;
+          &lt;p&gt;For those who&#39;s ricing Arch Linux.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Fantasy</title>
+      <link>//localhost:1313/fantasy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fantasy/</guid>
+        <media:content url="//localhost:1313/fantasy/mountain_path_hu_306e5d94afab8d91.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/fantasy/mountain_path_hu_306e5d94afab8d91.jpg&quot; /&gt;
+          &lt;p&gt;For those who buy D20&#39;s.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nature</title>
+      <link>//localhost:1313/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/nature/</guid>
+        <media:content url="//localhost:1313/nature/forest_house_hu_65b8dd424fa05ee7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/nature/forest_house_hu_65b8dd424fa05ee7.jpg&quot; /&gt;
+          &lt;p&gt;For those who put plants on their setup.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Operating System</title>
+      <link>//localhost:1313/os/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/os/</guid>
+        <media:content url="//localhost:1313/os/arch_minimal_hu_cbc63859413926b7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/os/arch_minimal_hu_cbc63859413926b7.jpg&quot; /&gt;
+          &lt;p&gt;For those who needs to be sure.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Videogames</title>
+      <link>//localhost:1313/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/games/</guid>
+        <media:content url="//localhost:1313/games/link_horizon_hu_fbc1d94500772433.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/games/link_horizon_hu_fbc1d94500772433.jpg&quot; /&gt;
+          &lt;p&gt;For those who for Steam Winter Sale.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
